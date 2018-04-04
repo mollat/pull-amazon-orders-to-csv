@@ -23,7 +23,7 @@ Also Firefox as engine is hardcoded at the moment.
 - apps are not listed by name, but gets falsely included as shipment costs
 - the prices for 'flash offers' are always zero (however - they get tagged, so the price can be corrected afterwards)
 - german umlauts does not decode properly at older years. This seems to
-  be an Amazon bug, at they don't show properly at the normal site also
+  be an Amazon bug, as they don't show properly at the normal site also
 - shipment fees will not show up as refunded if the order gets cancelled
 - shipment fees from orders payed with a voucher card do not show up at all
 
