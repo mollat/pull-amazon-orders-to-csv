@@ -31,7 +31,7 @@ Also Firefox as engine is hardcoded at the moment.
 
 Be sure to have Firefox installed. Get the repo or download this files to some dir. Get some ruby > 2. For example:
 
-`apt-install ruby2.3`
+`apt-install ruby2.3`ruby-dev
 
 Install ruby's selenium package:
 
