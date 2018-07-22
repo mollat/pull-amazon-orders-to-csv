@@ -29,9 +29,13 @@ Also Firefox as engine is hardcoded at the moment.
 
 # Installation
 
-Be sure to have Firefox installed. Get the repo or download this files to some dir. Get some ruby > 2. For example:
+Be sure to have Firefox installed. Get the repo or download this files to some dir. Get some ruby > 2. For example in Debian based distributions:
 
-`apt-install ruby2.3 ruby-dev`
+`apt install ruby-full`
+
+You will find more ways for installation here:
+
+[https://www.ruby-lang.org/en/documentation/installation/](https://www.ruby-lang.org/en/documentation/installation/)`
 
 Install ruby's selenium package:
 
